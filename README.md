@@ -1,179 +1,359 @@
-# Hi there, I'm Amine Hamdi! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Final+Year+Computer+Science+Student;AI+%26+Full+Stack+Developer;Building+Scalable+Systems+with+AI" alt="Typing SVG" />
+
+# 🚀 AMINE HAMDI
+
+### `Full-Stack Developer` | `AI Engineer` | `System Architect`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems;Microservices+%26+AI+Expert;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amine.hamdi@enis.tn)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
----
+## 💫 About Me
 
-## 🚀 About Me
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  Computer Science Engineer | AI Enthusiast | System Builder │
-│  National Engineering School of Sfax | Sfax, Tunisia        │
-└─────────────────────────────────────────────────────────────┘
+```yaml
+name: Amine Hamdi
+located_in: Sfax, Tunisia 🇹🇳
+education: Computer Science Engineer @ ENIS
+interests: [Agentic AI, Distributed Systems, Real-Time Processing]
+currently_learning: [Advanced RAG Systems, Spring Cloud, LLM Fine-tuning]
+2025_goals: 
+  - Build production-grade AI agents
+  - Contribute to major open source projects
+  - Master distributed system patterns
+fun_fact: "I turn coffee into AI-powered solutions ☕ → 🤖"
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🔭 **Currently Working On**
-> Building cutting-edge AI solutions and scalable microservices architectures
+## 🎯 What I Do
 
-### 🌱 **Learning Journey**
-> Deep diving into **Agentic AI**, **RAG Systems**, and **Distributed Architecture**
+<table>
+<tr>
+<td width="50%">
 
-### 👯 **Open to Collaborate**
-> Real-world AI/ML projects, Full-stack applications, and Microservices systems
-
-### 🎓 **Education**
-> Engineering Degree in Computer Science @ **ENIS** (2023-Present)
-
-### 💬 **Ask Me About**
-> Python, Spring Boot, AI/ML, RAG Systems, Microservices, Next.js, Flutter
-
-### 📫 **How to Reach Me**
-> **Email:** amine.hamdi@enis.tn | **Phone:** +216 94 963 330
-> 
-> **Location:** Sfax, Tunisia 🇹🇳
-
-### ⚡ **Fun Fact**
-> I've built everything from medical chatbots to real-time object detection dashboards! 🤖🏥
-
----
-
-## 🛠️ Tech Stack
-
-```javascript
-const amineHamdi = {
-    languages: ["Python", "Java", "JavaScript", "TypeScript", "Dart", "SQL"],
-    
-    backend: {
-        frameworks: ["Spring Boot", "FastAPI", "Django"],
-        specialties: ["Microservices", "REST APIs", "Spring Cloud"]
-    },
-    
-    frontend: {
-        frameworks: ["Next.js", "React", "Flutter", "Streamlit"],
-        mobile: ["Flutter"]
-    },
-    
-    ai_ml: {
-        expertise: ["RAG Systems", "LLM Integration", "YOLOv8"],
-        domains: ["Medical AI", "Computer Vision", "NLP"],
-        tools: ["Vector Databases", "Data Pipelines", "LangChain"]
-    },
-    
-    databases: ["PostgreSQL", "MySQL", "Firestore"],
-    
-    devops: ["Docker", "Git", "CI/CD", "Spring Cloud Config", "Eureka"],
-    
-    methodologies: ["Agile/Scrum", "CRISP-DM"],
-    
-    current_focus: "Agentic AI & Distributed Systems"
-};
+### 🤖 AI & Machine Learning
+```python
+expertise = {
+    "Computer Vision": ["YOLOv8", "Real-time Detection"],
+    "NLP & LLMs": ["RAG Systems", "LangChain", "Grok"],
+    "Medical AI": ["Diagnostic Support", "Image Processing"],
+    "Vector DBs": ["PostgreSQL pgvector", "Embeddings"]
+}
 ```
 
----
+</td>
+<td width="50%">
 
-## 💼 Professional Experience
+### 🏗️ Backend & Architecture
+```java
+@Architecture
+class MyExpertise {
+    Microservices: Spring Boot + Cloud
+    APIs: FastAPI, Django, Spring
+    Patterns: Event-Driven, CQRS
+    Discovery: Eureka, API Gateway
+    Config: Spring Cloud Config
+}
+```
 
-### 🤖 FullStack/AI Intern @ EagleProjects Tunisia
-**Jun 2025 – Aug 2025** | *Robotics & AI Company*
-- Engineered **Real-Time Object Detection Dashboard** using **YOLOv8**
-- Built **FastAPI** backend for optimized model inference
-- Created responsive UI with **Next.js** for seamless data visualization
+</td>
+</tr>
 
-### 💻 Developer Intern @ REGIM Lab
-**Jun 2024 – Aug 2024** | *Laboratory Specialized in Intelligent Machines*
-- Architected **Flutter application** for Hedi Chaker Hospital Nephrology Service
-- Implemented secure authentication with **Firebase**
-- Built **Django** backend for medical imagery processing
+<tr>
+<td width="50%">
 
----
+### 🎨 Frontend & Mobile
+```typescript
+const skills = {
+  web: ["Next.js", "React", "Streamlit"],
+  mobile: ["Flutter"],
+  styling: ["Tailwind", "Material UI"],
+  state: ["Redux", "Context API"]
+}
+```
 
-## 🎯 Featured Projects
+</td>
+<td width="50%">
 
-### 🏥 [RAG-Based Medical Chatbot](link) | *Dec 2025*
-> AI-powered medical assistance using Retrieval-Augmented Generation
-- **Stack:** LLM (Grok), Vector DB, PostgreSQL, Streamlit
-- Built end-to-end knowledge pipeline for medical documentation
-- Context-aware response generation for healthcare professionals
+### 🔧 DevOps & Tools
+```bash
+# Daily toolkit
+docker compose up -d
+git commit -m "feat: new AI feature"
+kubectl apply -f deployment.yaml
+psql -d vector_db
+```
 
-### 🏗️ [Distributed Microservices Architecture](link) | *Oct-Dec 2025*
-> Scalable enterprise-grade microservices ecosystem
-- **Stack:** Spring Boot, Spring Cloud, Eureka, API Gateway
-- 4 distinct microservices with centralized configuration
-- Service discovery and intelligent routing
+</td>
+</tr>
+</table>
 
-### 🛒 [E-Commerce Platform](link)
-> Full-featured online shopping system
-- **Stack:** PHP, MySQL
-- Complete product management and checkout flow
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 💼 Professional Journey
 
-## 📊 GitHub Stats
+<details open>
+<summary><b>🦅 FullStack/AI Intern @ EagleProjects Tunisia</b></summary>
+<br>
+
+**Jun 2025 – Aug 2025** | *Remote*
+
+```diff
++ Built Real-Time Object Detection Dashboard with YOLOv8
++ Architected FastAPI backend handling 1000+ concurrent requests
++ Developed Next.js frontend with real-time WebSocket updates
++ Deployed complete AI pipeline from training to production
+```
+
+**Tech Stack:** `Python` `FastAPI` `YOLOv8` `Next.js` `WebSockets` `Docker`
+
+</details>
+
+<details>
+<summary><b>🏥 Developer Intern @ REGIM Lab</b></summary>
+<br>
+
+**Jun 2024 – Aug 2024** | *Remote*
+
+```diff
++ Created hospital management app for Nephrology Service
++ Implemented secure Firebase authentication & real-time DB
++ Built Django backend for medical image processing
++ Streamlined patient data management workflow
+```
+
+**Tech Stack:** `Flutter` `Firebase` `Django` `Medical Imaging` `REST APIs`
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 RAG Medical Chatbot
+*AI-Powered Healthcare Assistant*
+
+[![Code](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](YOUR_REPO_LINK)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+
+**Highlights:**
+- 🧠 Grok LLM integration
+- 📚 Vector DB knowledge base
+- 🎨 Streamlit interface
+- 🔍 Context-aware responses
+
+**Stack:** Python • LangChain • PostgreSQL • Streamlit
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Microservices Ecosystem
+*Enterprise-Grade Distributed System*
+
+[![Code](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](YOUR_REPO_LINK)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+
+**Highlights:**
+- 🌐 4 independent services
+- 🔄 Eureka service discovery
+- ⚙️ Centralized config server
+- 🚪 API Gateway routing
+
+**Stack:** Spring Boot • Spring Cloud • Eureka • Docker
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Platform
+*Full-Featured Online Store*
+
+[![Code](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](YOUR_REPO_LINK)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
+
+**Highlights:**
+- 🛍️ Complete shopping flow
+- 💳 Payment integration
+- 👤 User management
+- 📦 Order tracking
+
+**Stack:** PHP • MySQL • Bootstrap • jQuery
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Hospital Management App
+*Healthcare Data Solution*
+
+[![Code](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](YOUR_REPO_LINK)
+![Status](https://img.shields.io/badge/Status-Production-green?style=flat-square)
+
+**Highlights:**
+- 📊 Patient data management
+- 🔐 Secure authentication
+- 🖼️ Medical image processing
+- 📱 Cross-platform mobile
+
+**Stack:** Flutter • Firebase • Django • REST API
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Frontend & Mobile
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### AI/ML & Data
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+</div>
 
-## 📜 Certifications
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🎓 **Project Management Fundamentals** - IBM (Dec 2025)
-- Agile Methodologies, Stakeholder Management, Risk Assessment
+## 🏆 Certifications & Achievements
 
-🌐 **DevNet Associate** - Cisco (Oct-Dec 2025)
-- Software Development & Automation for Cisco Environments
+<div align="center">
 
-🤖 **Intro to LangChain**
-- Building LLM Applications with LangChain Framework
+| Certification | Organization | Date | Focus Area |
+|--------------|--------------|------|------------|
+| 🎯 **Project Management Fundamentals** | IBM | Dec 2025 | Agile, Stakeholder Management |
+| 🌐 **DevNet Associate** | Cisco | Dec 2025 | Software Dev & Automation |
+| 🤖 **Intro to LangChain** | - | 2025 | LLM Application Development |
 
----
+</div>
 
-## 🎯 Current Goals for 2025
-
-- [x] Master RAG Systems and LLM Integration
-- [x] Build production-ready microservices architecture
-- [ ] Contribute to 10+ open source AI/ML projects
-- [ ] Deploy scalable Agentic AI systems
-- [ ] Complete advanced Spring Cloud certifications
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amine-elhamdi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:amine.hamdi@enis.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://aminehamdi-hub.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌍 Languages
 
-**Arabic:** Native 🇹🇳 | **English:** Advanced 🇬🇧 | **French:** Intermediate 🇫🇷
+<div align="center">
 
----
+```javascript
+const languages = {
+    arabic: "████████████████████ 100% (Native)",
+    english: "████████████████░░░░  85% (Advanced)",
+    french: "████████████░░░░░░░░  60% (Intermediate)"
+};
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 Current Focus
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
-  ### 💭 Quote of the Day
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-  ---
-  
-  **✨ Let's build intelligent systems together! ✨**
-  
-  *"Specializing in building scalable systems and integrating cutting-edge AI solutions"*
+
+```mermaid
+mindmap
+  root((Amine))
+    Agentic AI
+      Multi-Agent Systems
+      Tool Integration
+      LLM Orchestration
+    Distributed Systems
+      Microservices
+      Event Sourcing
+      CQRS Pattern
+    Production ML
+      Model Deployment
+      MLOps Pipeline
+      Monitoring
+    Open Source
+      Contributions
+      Community Building
+      Knowledge Sharing
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📞 Let's Connect!
+
+<div align="center">
+
+### 💬 *"Building intelligent systems, one commit at a time"*
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge)](YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/📧_Email-amine.hamdi@enis.tn-D14836?style=for-the-badge)](mailto:amine.hamdi@enis.tn)
+[![Phone](https://img.shields.io/badge/📱_Phone-+216_94_963_330-25D366?style=for-the-badge)](tel:+21694963330)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br>
+
+### ⭐ *From Tunisia with Code* 🇹🇳
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 </div>
