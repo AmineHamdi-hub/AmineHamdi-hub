@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[Abstract Technology Profile LinkedIn Banner.pdf](https://github.com/user-attachments/files/24360865/Abstract.Technology.Profile.LinkedIn.Banner.pdf)
+
+<img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/249a38b1-450f-4fde-8b48-b590ec4508b5" href="https://aminehamdi-hub.github.io/portfolio/"/>
 
 <!--
 **AmineHamdi-hub/AmineHamdi-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
