@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="800" height="800" alt="LinkedIn_pp" src="https://github.com/user-attachments/assets/d62041c4-8b37-4e3f-a2a5-418ebc6cf12f" />
 
 <!--
 **AmineHamdi-hub/AmineHamdi-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
